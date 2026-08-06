@@ -374,10 +374,17 @@ form button{
 
 /* FOOTER */
 footer{
-    background:#0d2f6b;
+    width:100vw;
+    margin-left:calc(50% - 50vw);
+    background:#02204d;
     color:#fff;
+    padding:30px 20px;
     text-align:center;
-    padding:20px;
+    box-sizing:border-box;
+}
+
+footer p{
+    margin:0;
 }
 
 /* WHATSAPP BUTTON */
