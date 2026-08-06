@@ -21,6 +21,15 @@ header{
     top:0;
     z-index:1000;
 }
+/* Container */
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:15px 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
 
 .logo{
     display:flex;
